@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Cosmos\Documents\GitHub\ImageTillerConsoleApp\ImageTillerConsoleApp\main.cpp(9784,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cosmos\Documents\GitHub\ImageTillerConsoleApp\ImageTillerConsoleApp\main.cpp(9785,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cosmos\Documents\GitHub\ImageTillerConsoleApp\ImageTillerConsoleApp\main.cpp(9829,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cosmos\Documents\GitHub\ImageTillerConsoleApp\ImageTillerConsoleApp\main.cpp(9830,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ImageTillerConsoleApp.vcxproj -> C:\Users\Cosmos\Documents\GitHub\ImageTillerConsoleApp\x64\Debug\ImageTillerConsoleApp.exe
